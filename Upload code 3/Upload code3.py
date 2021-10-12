@@ -1,5 +1,5 @@
-Green = "yellow"
-Yellow = "green"
+Green = "sus"
+Yellow = "amogus"
 Green = Yellow
-if Green == "green":
+if Green == "sus":
     print(Green)
