@@ -1,5 +1,5 @@
 test=7
 if test != 3:
-    print("test failed")
+    print("test pulped")
 else:
-    print*("test success")
+    print*("test very gud")
