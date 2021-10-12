@@ -20,4 +20,4 @@ intentionallybadvariableten=intentionallybadlistname2[22]
 if theultimatevariablenamethatissupercoolanddetermineswhatthetruemeaningoftheuniverseis == True:
     print(intentionallybadlistname1[intentionallybadvariableone].upper() + intentionallybadlistname1[intentionallybadvariabletwo] + intentionallybadlistname1[intentionallybadvariablethree] + intentionallybadlistname1[intentionallybadvariablefour] + intentionallybadlistname1[intentionallybadvariablefive] + gapmoe + intentionallybadlistname1[intentionallybadvariablesix].upper() + intentionallybadlistname1[intentionallybadvariableseven] + intentionallybadlistname1[intentionallybadvariableeight] + intentionallybadlistname1[intentionallybadvariablenine] + intentionallybadlistname1[intentionallybadvariableten])
 else:
-    print("Hello World")
+    print("sus")
